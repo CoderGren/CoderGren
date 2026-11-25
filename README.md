@@ -6,14 +6,13 @@ I build AWS platforms and the TypeScript products that run on them. Day to day I
 
 ## Selected projects
 
-<!-- Publish each row only once its public repo exists. Confirm every detail against the code first.
 | Project | What it is | Stack |
 |---|---|---|
-| [Grenmind](LINK-TBD) | Signed macOS app for running LLMs locally, with a coding agent, Keychain-backed secrets, and per-model tool-call parsing | Swift/SwiftUI, Python, FastAPI, pytest |
-| [GrenV](LINK-TBD) | Raspberry Pi control system for my RV that keeps working offline, with an iOS app and a secure AWS gateway | Python, Swift, AWS, GitHub Actions |
-| [Ledger API](LINK-TBD) | Double-entry ledger with idempotent transfers and property-tested balance invariants, plus a React design-system front end | STACK-TBD once built |
-| [agent-task-bench](LINK-TBD) | Open-source harness that scores how well local models call tools on agent tasks | Python, pytest, GitHub Actions |
--->
+| [Ledger API](https://github.com/CoderGren/ledger-api-cdk) | Double-entry ledger API with idempotent transfers, property-tested balance invariants, JWT auth, and least-privilege IAM, deployed with GitHub OIDC | TypeScript, AWS CDK, API Gateway, Lambda, DynamoDB |
+| [Tally design system](https://github.com/CoderGren/tally-design-system) | Accessible fintech React component library with exact money handling and a demo dashboard on the ledger API | React, TypeScript, Storybook, Vitest |
+| [agent-task-bench](https://github.com/CoderGren/agent-task-bench) | Harness that scores how well local models call tools on short coding-agent tasks | Python, pytest, GitHub Actions |
+| [Grenmind](https://glen.gmbxdigital.com/grenmind/) | Signed macOS app for running LLMs locally, with a coding agent, Keychain-backed secrets, and per-model tool-call parsing | Swift/SwiftUI, Python, FastAPI, pytest |
+| [GrenV](https://glen.gmbxdigital.com/grenv/) | Raspberry Pi control system for my RV that keeps working offline, with an iOS app and a secure AWS gateway | Python, Swift, AWS, GitHub Actions |
 
 ## Toolbox
 
@@ -23,5 +22,4 @@ Also: Angular · Swift/SwiftUI · DynamoDB · EventBridge · API Gateway · Cogn
 
 ## Contact
 
-glen@gmbxdigital.com
-<!-- Add gmbxdigital.com and LinkedIn links once the portfolio page is live -->
+[glen@gmbxdigital.com](mailto:glen@gmbxdigital.com) · [glen.gmbxdigital.com](https://glen.gmbxdigital.com) · [LinkedIn](https://www.linkedin.com/in/glen-burchfield)
