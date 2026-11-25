@@ -1,11 +1,27 @@
-👋 Hey there! I go by @CoderGren on GitHub, but you can refer to me as Gren. 
-That's short for Grenjamin! Haha, just kidding of course. Could you imagine?!
-Real talk though I’m aiming to use my gifts to push the limits of technology.
-At any given moment, you can find me either improving my fundamentals or pushing my latest tech improvements to the internet.
-If you're interested in collaborating, learning, or just want to 'shoot-the-sheet' as I say,
-you can reach out to me at "glen@unsuccessfultech.com" my work email.
+# Glen Burchfield
 
-<!---
-CoderGren/CoderGren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Senior Software Engineer · Tech Lead · Platform, full-stack TypeScript and AWS**
+
+I build AWS platforms and the TypeScript products that run on them. Day to day I'm a tech lead on an emerging-solutions team in insurance and financial services, working in TypeScript and Node.js on AWS (CDK, ECS/Fargate, Lambda), with PostgreSQL and React/Angular. On my own time I build local-AI and edge systems in Python and Swift.
+
+## Selected projects
+
+<!-- Publish each row only once its public repo exists. Confirm every detail against the code first.
+| Project | What it is | Stack |
+|---|---|---|
+| [Grenmind](LINK-TBD) | Signed macOS app for running LLMs locally, with a coding agent, Keychain-backed secrets, and per-model tool-call parsing | Swift/SwiftUI, Python, FastAPI, pytest |
+| [GrenV](LINK-TBD) | Raspberry Pi control system for my RV that keeps working offline, with an iOS app and a secure AWS gateway | Python, Swift, AWS, GitHub Actions |
+| [Ledger API](LINK-TBD) | Double-entry ledger with idempotent transfers and property-tested balance invariants, plus a React design-system front end | STACK-TBD once built |
+| [agent-task-bench](LINK-TBD) | Open-source harness that scores how well local models call tools on agent tasks | Python, pytest, GitHub Actions |
+-->
+
+## Toolbox
+
+TypeScript · Node.js · AWS CDK · Lambda · ECS/Fargate · PostgreSQL · React · Python · GitHub Actions · LLM tool calling
+
+Also: Angular · Swift/SwiftUI · DynamoDB · EventBridge · API Gateway · Cognito
+
+## Contact
+
+glen@gmbxdigital.com
+<!-- Add gmbxdigital.com and LinkedIn links once the portfolio page is live -->
